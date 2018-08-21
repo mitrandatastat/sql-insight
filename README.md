@@ -2,7 +2,7 @@
 
 This repository contains a data manipulation project that involves writing very complex SQL & SQLite queries to extract data, combine the data with tables, create views and integrate them to establish insights. These insights should help businesses to reframe strategies and align them with the current market trends. 
 
-The complete technical writeup for this projet is available at my portfolio: https://portfolio.mshha.info/sql-insights/(https://portfolio.mshha.info/sql-insights/)
+The complete technical writeup for this projet is available at my portfolio: https://portfolio.mshah.info/sql-insights/(https://portfolio.mshah.info/sql-insights/)
 
 ### Objectives
 
