@@ -84,7 +84,7 @@ Why does the list of objectives mentioned above matter? What benefit can we deri
 
 ### Technical Writeup
 
-For the detail explanation of this project analysis, please refer to the technical writeup available at my portfolio [Data Manipulation Section](https://portfolio.mshah.info/#data_manipulation). 
+For the detail explanation of this project analysis, please refer to the technical writeup available at my portfolio [Data Manipulation Section](https://portfolio.mshah.info/sql-insights/). 
 
 ### Code Explanation
 
