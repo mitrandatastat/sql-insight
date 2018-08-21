@@ -2,6 +2,8 @@
 
 This repository contains a data manipulation project that involves writing very complex SQL & SQLite queries to extract data, combine the data with tables, create views and integrate them to establish insights. These insights should help businesses to reframe strategies and align them with the current market trends. 
 
+The complete technical writeup for this projet is available at my portfolio: https://portfolio.mshha.info/sql-insights/(https://portfolio.mshha.info/sql-insights/)
+
 ### Objectives
 
 Below is the list of business questions that we are looking to answer as the outcome of this project while demonstrating working skills with SQL:
@@ -103,6 +105,7 @@ Once get fork permission:
 * Keep following native files in the root directory: 
 	
 	1. python file (.py) or Jupyter Notebook (*.ipynb) 
+	
 	2. chinook.db file
 
 * Execute the .py or .ipynb file in root. 
